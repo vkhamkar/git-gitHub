@@ -1,2 +1,4 @@
 This is 1st code file...
-I'm Java developer and developing  and gaming Project
+I'm Java developer and developing java gaming Project
+
+This game is abt coding 
